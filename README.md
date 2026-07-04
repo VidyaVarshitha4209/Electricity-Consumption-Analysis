@@ -1,4 +1,4 @@
-# 📌 Project Overview
+# Project Overview
 
 ## Introduction
 
@@ -27,7 +27,7 @@ There is a need for an efficient system that can analyze and present electricity
 
 ---
 
-# ✨ Features of the Project
+# Features of the Project
 
 - Database Management
 - Data Cleaning & Preparation
@@ -46,7 +46,7 @@ There is a need for an efficient system that can analyze and present electricity
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 ```text
 CSV Dataset
@@ -72,7 +72,7 @@ User
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -86,7 +86,7 @@ User
 
 ---
 
-# ⚙ Working of the Project
+# Working of the Project
 
 ### Step 1 – Data Collection
 
@@ -114,7 +114,7 @@ The published Tableau dashboard and story are embedded into a Flask web applicat
 
 ---
 
-# 📊 Result
+# Result
 
 The project successfully analyzed electricity consumption data using Oracle SQL and Tableau. Interactive dashboards were created to visualize state-wise, region-wise, and year-wise electricity consumption. The dashboard provides filters, maps, pie charts, and bar charts that help users explore the data efficiently. The dashboard and story were successfully published to Tableau Public and integrated into a Flask web application.
 
